@@ -1,6 +1,6 @@
-# Spectrogram Aumentation Based on Harmonic and Percussive Components
+# TiFosi
 
-Official implementation of H&P Augmentation
+Official implementation of Time-Frequency Augmentation using Spectrogram Injection for Cardiac Feature Extraction from Radar Signal
 
 The code is written in Jupyter Notebook for easy understanding.
 
