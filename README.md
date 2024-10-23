@@ -1,6 +1,6 @@
 # TiFosi
 
-Official implementation of Time-Frequency Augmentation using Spectrogram Injection for Cardiac Feature Extraction from Radar Signal
+Official implementation of "Time-Frequency Augmentation using Spectrogram Injection for Cardiac Feature Extraction from Radar Signal"
 
 The code is written in Jupyter Notebook for easy understanding.
 
